@@ -52,6 +52,7 @@
 - Change Chat Font
 - Show FPS
 - Show Time
+- Time Preview
 - Light Mode
 - Show UI Borders
 - Menu Scale
